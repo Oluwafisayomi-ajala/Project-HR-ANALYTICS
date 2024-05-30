@@ -78,6 +78,8 @@ This dashboard provides actionable insights to improve workforce management and 
 4. **Analyze**: Use the insights from the dashboard to make informed decisions about HR management.
 
 ---
+~~~
+![](IMG-20240530-WA0018_1.jpg)
 ## Conclusions
 
 1. **High Attrition in Sales**: The Sales department shows the highest attrition rate, suggesting potential issues within this department that need to be addressed.
