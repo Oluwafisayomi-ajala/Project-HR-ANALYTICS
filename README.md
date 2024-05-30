@@ -58,7 +58,26 @@ This dashboard provides insights into various aspects of HR management, focusing
   - Due: 85%
   - Overdue: 15%
 - **Insight**: Most of the attrition is occurring among employees who are due for a promotion, indicating a possible link between lack of career advancement and employee turnover.
+~~~
+![](IMG-20240530-WA0018.jpg)
+## Conclusions
 
+1. **High Attrition in Sales**: The Sales department shows the highest attrition rate, suggesting potential issues within this department that need to be addressed.
+2. **Job Satisfaction Impact**: There is a clear correlation between job dissatisfaction and higher attrition rates. Efforts to improve job satisfaction could help reduce turnover.
+3. **Mid-Career Attrition**: Employees in the age groups of 25-34 and 35-44 are the most likely to leave. Retention strategies should focus on this demographic.
+4. **Promotion and Attrition**: Employees who are overdue for a promotion are more likely to leave. Implementing timely promotions could improve retention.
+5. **Salary Hikes and Retention**: Most current employees have received salary hikes, which may contribute to their retention. Ensuring competitive compensation can help in retaining employees.
+
+This dashboard provides actionable insights to improve workforce management and reduce attrition by focusing on job satisfaction, career advancement, and competitive compensation.
+
+## How to Use This Dashboard
+
+1. **Install Power BI**: Ensure you have Power BI installed on your computer.
+2. **Load the Data**: Import the HR dataset into Power BI.
+3. **Create Visualizations**: Use the visualizations mentioned above to recreate the dashboard.
+4. **Analyze**: Use the insights from the dashboard to make informed decisions about HR management.
+
+---
 ## Conclusions
 
 1. **High Attrition in Sales**: The Sales department shows the highest attrition rate, suggesting potential issues within this department that need to be addressed.
