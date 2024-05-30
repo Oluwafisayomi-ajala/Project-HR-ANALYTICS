@@ -1,5 +1,5 @@
 # Project-HR-ANAL
-Here's a detailed README file in Markdown format for your GitHub repository, explaining each graph in your HR Analytics dashboard and providing a conclusion:
+Here's a detailed README file in Markdown format for my GitHub repository, explaining each graph in your HR Analytic dashboard and providing a conclusion on an identified organization work force issues.
 
 ---
 
