@@ -10,10 +10,9 @@ Here's a detailed README file in Markdown format for my GitHub repository, expla
 This dashboard provides insights into various aspects of HR management, focusing on employee attrition, job satisfaction, age distribution, salary hikes, and promotions. The dashboard helps in identifying key areas affecting employee retention and satisfaction within the organization.
 
 ## Graphs and Insights
----
 ~~~
+---
 ![](IMG-20240530-WA0018_1.jpg)
-
 ### 1. Total Employee, Current Employee, Attrition Count
 - **Total Employee**: 1470
 - **Current Employee**: 1233
